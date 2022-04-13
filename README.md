@@ -50,7 +50,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     <td><b>4.18.22</b></td>
     <td><b>day_01: Program Overview & Git Workshop</b></td>
     <td>
-
+     TBD
     </td>
   </tr>
 </table>
