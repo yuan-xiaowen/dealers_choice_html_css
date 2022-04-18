@@ -10,8 +10,6 @@ This is your **class repo**. This repo will have everything we do/talk about in/
 
 ## Resources
 
-[**Toolbox**](https://learn.fullstackacademy.com/workshop/570bdee44a306c0300b78b52/content/570be2fe4a306c0300b79062/text)
-
 [**GIT interactive workshop**](https://learn.fullstackacademy.com/workshop/5b59de0c9374650004add7dc/content/5b59de1a0efe540004cedf19/text)
 
 [**Flexbox Froggy**](http://flexboxfroggy.com/)
