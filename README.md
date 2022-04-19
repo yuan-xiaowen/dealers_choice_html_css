@@ -20,7 +20,14 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     <td><b>4.18.22</b></td>
     <td><b>day_01: Program Overview & Git Workshop</b></td>
     <td>
-     TBD
+      <a href='https://www.youtube.com/watch?v=qvLGTDYrU9U'>Prework for HTML/CSS</a>
+    </td>
+  </tr>
+    <tr>
+    <td><b>4.20.22</b></td>
+    <td><b>day_01: HTML and CSSp</b></td>
+    <td>
+      TBD
     </td>
   </tr>
 </table>
