@@ -22,7 +22,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
     <td>
       <ul>
         <li>
-          <a href='https://fullstack.instructure.com/courses/248/pages/vanilla-dom-module-1-git-setup-common-configurations?module_item_id=60901'>Git Lab</a>
+          <a href='https://fullstack.instructure.com/courses/248/pages/vanilla-dom-module-1-git-setup-common-configurations?module_item_id=60901'>Lab: Git Setup</a>
         </li>
         <li>
           <a href='https://fullstack-cdn.p1.engageli-prod.com/fullstackacademy/recorder/web-development(038bd)/1650321306031/Web-Development(038bd)---2022-04-19T01-44-21-426Z/MP4/Web-Development(038bd)---2022-04-19T01-44-21-426Z.mp4'>Orientation + Intro to Jr. Phase Lecture Video</a>
