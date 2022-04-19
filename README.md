@@ -18,7 +18,7 @@ This is your **class repo**. This repo will have everything we do/talk about in/
   </tr>
   <tr>
     <td><b>4.18.22</b></td>
-    <td><b>day_01: Program Overview & Git Workshop</b></td>
+    <td><b>Day 01: Program Overview & Git Workshop</b></td>
     <td>
       <ul>
         <li>
@@ -27,17 +27,18 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <li>
           <a href='https://fullstack-cdn.p1.engageli-prod.com/fullstackacademy/recorder/web-development(038bd)/1650321306031/Web-Development(038bd)---2022-04-19T01-44-21-426Z/MP4/Web-Development(038bd)---2022-04-19T01-44-21-426Z.mp4'>Orientation + Intro to Jr. Phase Lecture Video</a>
         </li>
-        <li>
-          <a href='https://www.youtube.com/watch?v=qvLGTDYrU9U'>Prework for HTML/CSS</a>
-        </li>
       </ul>
     </td>
   </tr>
     <tr>
     <td><b>4.20.22</b></td>
-    <td><b>day_02: HTML and CSS</b></td>
+    <td><b>Day 02: HTML and CSS</b></td>
     <td>
-      TBD
+      <ul>
+        <li>
+          <a href='https://www.youtube.com/watch?v=qvLGTDYrU9U'>Prework for HTML/CSS</a>
+        </li>
+      </ul>
     </td>
   </tr>
 </table>
