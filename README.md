@@ -52,6 +52,9 @@ This is your **class repo**. This repo will have everything we do/talk about in/
         <li>
           <a href='https://www.youtube.com/watch?v=eABErdO3h28'>Flexbox Prework Video</a>
         </li>
+        <li>
+          <a href='https://fullstack.instructure.com/courses/248/pages/vanilla-dom-module-3-getting-started-goal?module_item_id=60910'>Lab: Module 3 - Landing Page Liftoff</a>
+        </li>
       </ul>
     </td>
   </tr>
