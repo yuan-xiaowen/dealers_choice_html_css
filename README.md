@@ -39,7 +39,13 @@ This is your **class repo**. This repo will have everything we do/talk about in/
           <a href='https://www.youtube.com/watch?v=qvLGTDYrU9U'>HTML/CSS Prework Video</a>
         </li>
         <li>
+          <a href=''> Intro HTML/CSS Lecture Video</a>
+        </li>
+        <li>
           <a href='https://fullstack.instructure.com/courses/248/pages/vanilla-dom-module-2-getting-started-introduction?module_item_id=60907'>Lab: Module 2 - CSS Drills</a>
+        </li>
+        <li>
+          <a href=''>CSS Drills Lecture Video</a>
         </li>
       </ul>
     </td>
