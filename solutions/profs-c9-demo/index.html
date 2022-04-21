@@ -1,0 +1,44 @@
+<html>
+    <head>
+        <title>My C9 App</title>
+    
+        <style>
+            * {
+                box-sizing: border-box;
+            }
+            body {
+                font-family: verdana;
+            }
+            
+            
+            div > div {
+                padding: 1rem;
+                border: solid 1px black;
+                width: calc(100%/3 - 2rem);
+                float: left;
+                margin: 1rem;
+                color: white;
+            }
+            
+            div > div:first-child {
+                background-color: red;
+            }
+            div > div:nth-child(2) {
+                background-color: yellow;
+                color: black;
+            }
+            
+            div > div:last-child {
+                background-color: blue;
+            }
+        </style>
+    </head>
+    <body>
+        <h1>My C9 App</h1>
+        <div>
+            <div>Red</div>
+            <div>Yellow</div>
+            <div>Blue</div>
+        </div>
+    </body>
+</html>
