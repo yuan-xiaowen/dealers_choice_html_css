@@ -1,0 +1,82 @@
+ header{
+  font-size:40px;
+  background-color: lightgray;
+  font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  border-radius: 5px;
+  padding-left: 1rem;
+  margin-top: 5px;
+ }
+
+
+ #spring div{
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  #spring h1{
+    font-family:verdana;
+    text-align: center;
+    font-size: 30px; 
+  }
+  #spring div div{
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+    font-size: 15px;
+    align-items: center;
+    flex:1;
+  }
+
+  #summer div{
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  #summer h1{
+    font-family:verdana;
+    text-align: center;
+    font-size: 30px; 
+  }
+  #summer div div{
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+    font-size: 15px; 
+    align-items: center;
+    flex:1;
+  }
+
+  #fall div{
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  #fall h1{
+    font-family:verdana;
+    text-align: center;
+    font-size: 30px; 
+  }
+  #fall div div{
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+    font-size: 15px; 
+    align-items: center;
+    flex:1;
+  }
+ 
+  #winter div{
+    display: flex; 
+    flex-wrap: wrap;
+  }
+  #winter h1{
+    font-family:verdana;
+    text-align: center;
+    font-size: 30px; 
+  }
+  #winter div div{
+    display: flex;
+    flex-direction: column;
+    font-family: verdana;
+    font-size: 15px;
+    align-items: center;
+    flex:1;
+  }
+ 
